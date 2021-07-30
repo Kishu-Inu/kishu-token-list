@@ -16,6 +16,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D/logo.png"
   },
   {
+    "name": "Tenshi",
+    "address": "0x52662717e448be36Cb54588499D5A8328BD95292",
+    "symbol": "TENSHI",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x52662717e448be36Cb54588499D5A8328BD95292/logo.png"
+  },
+  {
     "name": "Dai Stablecoin",
     "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "symbol": "DAI",
