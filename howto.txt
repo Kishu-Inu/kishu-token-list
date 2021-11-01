@@ -1,0 +1,5 @@
+1) delete -p and build dirs
+2) add tokens to src/tokens/mainnet.json
+3) change version number
+4) npm login
+5) npm publish

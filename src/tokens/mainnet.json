@@ -48,19 +48,19 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
-    "name": "Orchid",
-    "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
-    "symbol": "OXT",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png"
-  },
-  {
     "name": "Wrapped BTC",
     "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "name": "SHIBA INU",
+    "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE/logo.png"
   }
 ]
